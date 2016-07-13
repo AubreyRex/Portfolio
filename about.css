@@ -1,0 +1,52 @@
+.king{
+
+	margin: auto;
+	margin-top: 50px;
+	
+}
+
+div{
+	margin-top: 15px;
+	border: 1pt solid #000;
+	background-color: red;
+}
+p{
+	text-align: center;
+	color:black;
+}
+
+.ds {
+	height:150px;
+	width: 150px;
+	float:left;
+	margin:auto;
+	margin-top: 15px;
+}
+
+.doom {
+	height:150px;
+	width: 150px;
+	margin:auto;
+	margin-top: 15px;
+	float:right;
+
+}
+.html {
+	height:100px;
+	width: 100px;
+	margin:auto;
+}
+.bloodborne {
+	height:150px;
+	width: 400px;
+margin:auto;
+	display: block
+
+}
+.css {
+	float: top;
+	
+	height:100px;
+	width: 100px;
+	margin:auto;
+}

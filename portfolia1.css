@@ -1,0 +1,66 @@
+p {
+	color:pink;
+}
+
+body{
+	width: 100%;
+
+	height:100%;
+	background-image: url("maxresdefaultCopy.jpg");
+	margin:auto;
+	background-size: 800px 600px;
+
+}
+#outline{
+	border: 2pt solid pink;
+	width: 95%;
+	
+	height:100%;
+	margin: auto;
+}
+.header {
+	border: 1pt solid #000;
+	width: 100%;
+	margin: auto;
+}
+.name {
+	text-align: center;
+
+}
+.sideBar {
+	
+	
+
+	background-color: blue;
+	width:100%;
+
+
+
+
+
+
+}
+.mainBar {
+	margin: 0 auto;
+	margin-right: 50px;
+	padding-left: 1px;
+	width: 100%;
+	display: inline-block;
+	background-color: red;
+	padding-left:7.1px;
+
+	
+  
+}
+
+}
+.links{
+	border: 1pt solid #000;
+	width: 100%;
+	margin: auto;
+
+
+}
+.clear {
+	clear:both;
+}
